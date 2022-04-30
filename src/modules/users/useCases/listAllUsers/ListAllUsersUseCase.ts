@@ -19,4 +19,4 @@ class ListAllUsersUseCase {
   }
 }
 
-export { ListAllUsersUseCase };
+export { ListAllUsersUseCase, IRequest };
